@@ -143,11 +143,13 @@
     <ClCompile Include="juegoRPG.cpp" />
     <ClCompile Include="Jugador.cpp" />
     <ClCompile Include="Objeto.cpp" />
+    <ClCompile Include="Orco.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Entidad.h" />
     <ClInclude Include="Jugador.h" />
     <ClInclude Include="Objeto.h" />
+    <ClInclude Include="Orco.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
