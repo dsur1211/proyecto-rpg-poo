@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Dragon.cpp" />
     <ClCompile Include="Entidad.cpp" />
     <ClCompile Include="juegoRPG.cpp" />
     <ClCompile Include="Jugador.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="Orco.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Dragon.h" />
     <ClInclude Include="Entidad.h" />
     <ClInclude Include="Jugador.h" />
     <ClInclude Include="Objeto.h" />
