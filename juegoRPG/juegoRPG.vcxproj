@@ -146,10 +146,13 @@
     <ClCompile Include="Jugador.cpp" />
     <ClCompile Include="Objeto.cpp" />
     <ClCompile Include="Orco.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="habitacion.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Dragon.h" />
     <ClInclude Include="Entidad.h" />
+    <ClInclude Include="habitacion.h" />
     <ClInclude Include="jefeFinal.h" />
     <ClInclude Include="Jugador.h" />
     <ClInclude Include="Objeto.h" />
