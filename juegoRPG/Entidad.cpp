@@ -22,7 +22,7 @@ void Entidad::recibirDanio(int cantidad) {
 		vida = 0;
 	}
 
-	std::cout << nombre << " ha recibido" << danioReal << " puntos de daño y su vida es " << vida << std::endl;
+	std::cout << nombre << " ha recibido " << danioReal << " puntos de danio y su vida es " << vida << std::endl;
 }
 
 bool Entidad::estaVivo() const {
